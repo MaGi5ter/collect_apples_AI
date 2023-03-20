@@ -5,7 +5,7 @@ it's so simple that it works perfectly in first generation
 
 https://magi5ter.github.io/collect_apples_AI/
 
-#how it works
+# how it works
 
 input: angle to point
 
